@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: cr.ac.una.PrestamoServiceTest
+-------------------------------------------------------------------------------
+Tests run: 15, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.048 s -- in cr.ac.una.PrestamoServiceTest
